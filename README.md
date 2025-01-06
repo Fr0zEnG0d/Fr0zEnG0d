@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luís Santos</h1>
-<h3 align="center">A developer from Portugal</h3>
+<h3 align="center">A developer from Portugal 🇵🇹</h3>
 
 <h5 align="center"> - I’m currently learning **Java Spring Boot**</h5>
 
